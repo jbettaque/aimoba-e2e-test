@@ -1,0 +1,5 @@
+{
+  "name": "e2e-js",
+  "runtime": "node",
+  "entry": "bot.js"
+}

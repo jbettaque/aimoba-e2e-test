@@ -1,0 +1,5 @@
+{
+  "name": "e2e-py",
+  "runtime": "python",
+  "entry": "bot.py"
+}
