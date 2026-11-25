@@ -19,7 +19,7 @@
  * Red, so your base is always bottom-left and the same code plays both sides.
  */
 
-const RETREAT_BELOW = 0.33;  // go home below this share of health
+const RETREAT_BELOW = 0.30;  // go home below this share of health
 const HEALED_ABOVE = 0.85;   // leave the fountain above this
 const FIGHT_RANGE = 1100;    // enemy heroes this close get attention
 const FARM_RANGE = 800;
